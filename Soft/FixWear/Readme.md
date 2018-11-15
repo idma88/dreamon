@@ -8,11 +8,10 @@
 
 Отсутствует
 
-## Репозиторий
-
-[https://github.com/idma88/FixWear](https://github.com/idma88/FixWear)
-
-
 ## Загрузка
 
 [Ссылка для скачивания](https://github.com/idma88/dreamon/blob/master/Soft/FixWear/FixWear.exe)
+
+## Репозиторий
+
+[https://github.com/idma88/FixWear](https://github.com/idma88/FixWear)

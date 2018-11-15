@@ -8,10 +8,10 @@
 
 Отсутствует
 
-## Репозиторий
-
-[https://github.com/Funbit/ets2-telemetry-server](https://github.com/Funbit/ets2-telemetry-server)
-
 ## Загрузка
 
 [Ссылка для скачивания](https://github.com/idma88/dreamon/blob/master/Soft/ETS2-ATS%20Telemetry%20Server/ETS2%20%26%20ATS%20Telemetry%20Server.zip)
+
+## Репозиторий
+
+[https://github.com/Funbit/ets2-telemetry-server](https://github.com/Funbit/ets2-telemetry-server)

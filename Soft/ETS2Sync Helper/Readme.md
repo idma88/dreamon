@@ -8,10 +8,10 @@
 
 ![Screenshot](https://raw.githubusercontent.com/idma88/dreamon/master/Soft/ETS2Sync%20Helper/Screenshot.png)
 
-## Репозиторий
-
-[https://github.com/davidsantos-br/ETS2Sync-Helper-4](https://github.com/davidsantos-br/ETS2Sync-Helper-4)
-
 ## Загрузка
 
 [Ссылка для скачивания](https://github.com/idma88/dreamon/blob/master/Soft/ETS2Sync%20Helper/ets2sync_helper.zip)
+
+## Репозиторий
+
+[https://github.com/davidsantos-br/ETS2Sync-Helper-4](https://github.com/davidsantos-br/ETS2Sync-Helper-4)
