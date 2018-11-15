@@ -1,4 +1,4 @@
-# FixWear 1.1
+# FixWear v1.1
 
 ## Описание
 
